@@ -1,0 +1,1178 @@
+[
+ {
+  "region": "us-al",
+  "name": "Birmingham Area Central Office",
+  "homepage": "https://aabham.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-al",
+  "name": "Huntsville Area Central Office",
+  "homepage": "https://aahuntsville.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-al",
+  "name": "Mobile Area Central Office",
+  "homepage": "https://aamobile.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-al",
+  "name": "Montgomery Area Central Office",
+  "homepage": "https://aamontgomery.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-al",
+  "name": "Alabama Northwest Florida Area 1",
+  "homepage": "https://aaarea1.org",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "us-ak",
+  "name": "Anchorage Central Office",
+  "homepage": "https://anchorageaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ak",
+  "name": "Fairbanks Intergroup",
+  "homepage": "https://fairbanksaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-az",
+  "name": "East Valley Intergroup",
+  "homepage": "https://aaeastvalley.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-az",
+  "name": "Arizona Area 3",
+  "homepage": "https://azaa.org",
+  "error": "Unexpected token '<', \"<!DOCTYPE \"... is"
+ },
+ {
+  "region": "us-az",
+  "name": "Northern Arizona Intergroup",
+  "homepage": "https://aaflagstaff.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ar",
+  "name": "Arkansas Area 4",
+  "homepage": "https://arkansasaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ar",
+  "name": "Central Arkansas Intergroup",
+  "homepage": "https://aalittlerock.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ca",
+  "name": "Los Angeles Central Office",
+  "homepage": "https://lacoaa.org",
+  "error": "Unexpected token '<', \"<!doctype \"... is"
+ },
+ {
+  "region": "us-ca",
+  "name": "San Francisco and Marin Intergroup",
+  "homepage": "https://aasfmarin.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-ca",
+  "name": "Santa Clara County Intergroup",
+  "homepage": "https://aasanjose.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-ca",
+  "name": "Long Beach Central Office",
+  "homepage": "https://lbaa.org",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "us-ca",
+  "name": "Santa Barbara Central Office",
+  "homepage": "https://aasb.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-ca",
+  "name": "Bakersfield Central Office",
+  "homepage": "https://aabakersfield.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ca",
+  "name": "San Fernando Valley Central Office",
+  "homepage": "https://sfvaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-ca",
+  "name": "Santa Cruz County Intergroup",
+  "homepage": "https://aasantacruz.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ca",
+  "name": "Sonoma County Intergroup",
+  "homepage": "https://sonomacountyaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ca",
+  "name": "Napa Intergroup",
+  "homepage": "https://napaaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ca",
+  "name": "San Mateo County Central Service",
+  "homepage": "https://aa-san-mateo.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ca",
+  "name": "Desert Cities Central Office",
+  "homepage": "https://aadesertcities.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ca",
+  "name": "South Bay Central Office",
+  "homepage": "https://southbayaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-ca",
+  "name": "Pasadena Area Central Office",
+  "homepage": "https://pasadenaaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ca",
+  "name": "Stockton Area Intergroup",
+  "homepage": "https://aastockton.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ca",
+  "name": "Redding Area Intergroup",
+  "homepage": "https://reddingaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ca",
+  "name": "San Luis Obispo Intergroup",
+  "homepage": "https://aaslo.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ca",
+  "name": "Contra Costa Central Service",
+  "homepage": "https://contracostaaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ca",
+  "name": "Mid Southern California Area 9",
+  "homepage": "https://msca09aa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-ca",
+  "name": "Northern California Area 7",
+  "homepage": "https://cnca06.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-co",
+  "name": "Boulder County Intergroup",
+  "homepage": "https://boulderaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-co",
+  "name": "Colorado Springs Central Office",
+  "homepage": "https://coloradospringsaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-co",
+  "name": "Colorado Area 10",
+  "homepage": "https://coloradoaa.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-de",
+  "name": "Delaware Area 13",
+  "homepage": "https://delawareaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-fl",
+  "name": "Miami Dade Intergroup",
+  "homepage": "https://aamiamidade.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-fl",
+  "name": "Broward County Intergroup",
+  "homepage": "https://aabroward.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-fl",
+  "name": "Central Florida Intergroup",
+  "homepage": "https://cflintergroup.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-fl",
+  "name": "Tampa Area Intergroup",
+  "homepage": "https://aatampa-area.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-fl",
+  "name": "Sarasota Intergroup",
+  "homepage": "https://sarasotaaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-fl",
+  "name": "Lee County Intergroup",
+  "homepage": "https://aaleecounty.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-fl",
+  "name": "Collier County Intergroup",
+  "homepage": "https://naplesaa.org",
+  "error": "UND_ERR_CONNECT_TIMEOUT"
+ },
+ {
+  "region": "us-fl",
+  "name": "Space Coast Intergroup",
+  "homepage": "https://spacecoastaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-fl",
+  "name": "Treasure Coast Intergroup",
+  "homepage": "https://aatreasurecoast.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-fl",
+  "name": "Tallahassee Intergroup",
+  "homepage": "https://aatallahassee.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-fl",
+  "name": "Volusia Flagler Intergroup",
+  "homepage": "https://aavolusia.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-fl",
+  "name": "Pensacola Intergroup",
+  "homepage": "https://aapensacola.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ga",
+  "name": "Savannah Intergroup",
+  "homepage": "https://aasavannah.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ga",
+  "name": "Augusta Intergroup",
+  "homepage": "https://aaaugusta.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ga",
+  "name": "Georgia Area 16",
+  "homepage": "https://aageorgia.org",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "us-hi",
+  "name": "Hawaii Area 17",
+  "homepage": "https://aa-hawaii.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-id",
+  "name": "Idaho Area 18",
+  "homepage": "https://idahoarea18aa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-id",
+  "name": "Boise Central Office",
+  "homepage": "https://boiseaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-il",
+  "name": "Chicago Area Service Office",
+  "homepage": "https://chicagoaa.org",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "us-il",
+  "name": "Northern Illinois Area",
+  "homepage": "https://aa-nia.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-il",
+  "name": "Southern Illinois Area 21",
+  "homepage": "https://aa-area21.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-il",
+  "name": "Peoria Area Intergroup",
+  "homepage": "https://aapeoria.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-il",
+  "name": "Rockford Area Intergroup",
+  "homepage": "https://aarockford.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-in",
+  "name": "Fort Wayne Central Office",
+  "homepage": "https://fortwayneaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-in",
+  "name": "Michiana Central Service",
+  "homepage": "https://michianaaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-in",
+  "name": "Evansville Central Office",
+  "homepage": "https://evansvilleaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-in",
+  "name": "Indiana Areas 22 and 23",
+  "homepage": "https://aaindiana.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ks",
+  "name": "Kansas Area 25",
+  "homepage": "https://kansas-aa.org",
+  "error": "UND_ERR_CONNECT_TIMEOUT"
+ },
+ {
+  "region": "us-ks",
+  "name": "Wichita Central Office",
+  "homepage": "https://aawichita.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-ky",
+  "name": "Louisville Central Office",
+  "homepage": "https://louisvilleaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-la",
+  "name": "New Orleans Central Office",
+  "homepage": "https://aaneworleans.org",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "us-la",
+  "name": "Louisiana Area 27",
+  "homepage": "https://aa-louisiana.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-md",
+  "name": "Baltimore Intergroup",
+  "homepage": "https://baltimoreaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-md",
+  "name": "Maryland Area 29",
+  "homepage": "https://marylandaa.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-md",
+  "name": "Montgomery County Intergroup",
+  "homepage": "https://aamontgomerycounty.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ma",
+  "name": "Boston Central Service Office",
+  "homepage": "https://aaboston.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ma",
+  "name": "Western Massachusetts Intergroup",
+  "homepage": "https://westernmassaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-ma",
+  "name": "Eastern Massachusetts Area 30",
+  "homepage": "https://aaemass.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-ma",
+  "name": "Cape Cod Intergroup",
+  "homepage": "https://capecodaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-mi",
+  "name": "Southeastern Michigan Area 16",
+  "homepage": "https://aa-semi.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-mi",
+  "name": "Detroit Central Office",
+  "homepage": "https://aadetroit.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-mi",
+  "name": "Grand Rapids Central Office",
+  "homepage": "https://aagr.org",
+  "error": "Unexpected token '<', \"<!DOCTYPE \"... is"
+ },
+ {
+  "region": "us-mi",
+  "name": "Lansing Central Office",
+  "homepage": "https://lansingaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-mi",
+  "name": "Washtenaw Intergroup",
+  "homepage": "https://washtenawaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-mi",
+  "name": "Kalamazoo Central Office",
+  "homepage": "https://aakalamazoo.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-mi",
+  "name": "Flint Central Office",
+  "homepage": "https://aaflint.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-mi",
+  "name": "Western Michigan Area 33",
+  "homepage": "https://area33.org",
+  "error": "UND_ERR_CONNECT_TIMEOUT"
+ },
+ {
+  "region": "us-mn",
+  "name": "St Paul Intergroup",
+  "homepage": "https://aastpaul.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-mn",
+  "name": "Southern Minnesota Area 36",
+  "homepage": "https://area36.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-mn",
+  "name": "Northern Minnesota Area 35",
+  "homepage": "https://area35.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-ms",
+  "name": "Mississippi Area 37",
+  "homepage": "https://aamississippi.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-mo",
+  "name": "Springfield Intergroup",
+  "homepage": "https://aaspringfieldmo.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-mo",
+  "name": "Eastern Missouri Area 38",
+  "homepage": "https://aaemo.org",
+  "error": "ECONNRESET"
+ },
+ {
+  "region": "us-mt",
+  "name": "Montana Area 40",
+  "homepage": "https://aamontana.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-ne",
+  "name": "Lincoln Central Office",
+  "homepage": "https://aalincoln.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-nv",
+  "name": "Northern Nevada Intergroup",
+  "homepage": "https://nnig.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-nv",
+  "name": "Nevada Area 42",
+  "homepage": "https://nevadaarea42.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-nh",
+  "name": "New Hampshire Area 43",
+  "homepage": "https://nhaa.net",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-nj",
+  "name": "Northern New Jersey Intergroup",
+  "homepage": "https://nnjaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-nj",
+  "name": "Central New Jersey Intergroup",
+  "homepage": "https://cnjaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-nj",
+  "name": "South Jersey Intergroup",
+  "homepage": "https://snjaa.org",
+  "error": "UND_ERR_CONNECT_TIMEOUT"
+ },
+ {
+  "region": "us-nj",
+  "name": "Southern New Jersey Area 45",
+  "homepage": "https://aanj.org",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "us-nm",
+  "name": "Albuquerque Central Office",
+  "homepage": "https://albuquerqueaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-nm",
+  "name": "New Mexico Area 46",
+  "homepage": "https://nmaa.org",
+  "error": "ECONNRESET"
+ },
+ {
+  "region": "us-ny",
+  "name": "Westchester Intergroup",
+  "homepage": "https://westchesteraa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ny",
+  "name": "Rochester Area Intergroup",
+  "homepage": "https://rochester-ny-aa.org",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "us-ny",
+  "name": "Buffalo Central Office",
+  "homepage": "https://aabuffalo.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ny",
+  "name": "Hudson Mohawk Berkshire Intergroup",
+  "homepage": "https://aahmbny.org",
+  "error": "Unexpected token '<', \"<!DOCTYPE \"... is"
+ },
+ {
+  "region": "us-ny",
+  "name": "Mid Hudson Intergroup",
+  "homepage": "https://midhudsonaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ny",
+  "name": "Rockland County Intergroup",
+  "homepage": "https://rocklandaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ny",
+  "name": "Binghamton Area Intergroup",
+  "homepage": "https://aabinghamton.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-ny",
+  "name": "Long Island Central Office",
+  "homepage": "https://aalongisland.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-nc",
+  "name": "Charlotte Central Office",
+  "homepage": "https://charlotteaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-nc",
+  "name": "Triad Intergroup",
+  "homepage": "https://aatriad.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-nc",
+  "name": "Asheville Area Intergroup",
+  "homepage": "https://ashevilleaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-nc",
+  "name": "Wilmington Intergroup",
+  "homepage": "https://aawilmington.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-nc",
+  "name": "North Carolina Area 51",
+  "homepage": "https://aanorthcarolina.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-nd",
+  "name": "North Dakota Area 52",
+  "homepage": "https://aanorthdakota.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-oh",
+  "name": "Cleveland District Office",
+  "homepage": "https://aacle.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-oh",
+  "name": "Akron Intergroup",
+  "homepage": "https://akronaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-oh",
+  "name": "Dayton Intergroup",
+  "homepage": "https://daytonaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-oh",
+  "name": "Toledo Intergroup",
+  "homepage": "https://toledoaa.com",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-oh",
+  "name": "Youngstown Intergroup",
+  "homepage": "https://aayoungstown.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-oh",
+  "name": "Canton Area Intergroup",
+  "homepage": "https://cantonaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-oh",
+  "name": "Lorain County Intergroup",
+  "homepage": "https://lorainaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-oh",
+  "name": "Ohio Area 53",
+  "homepage": "https://area53aa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-oh",
+  "name": "Ohio Area 54",
+  "homepage": "https://area54.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-ok",
+  "name": "Oklahoma City Central Office",
+  "homepage": "https://aaokc.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ok",
+  "name": "Tulsa Intergroup",
+  "homepage": "https://aatulsa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-or",
+  "name": "Portland Area Intergroup",
+  "homepage": "https://pdxaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-or",
+  "name": "Lane County Intergroup",
+  "homepage": "https://aalane.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-or",
+  "name": "Salem Central Office",
+  "homepage": "https://aasalem.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-pa",
+  "name": "Pittsburgh Area Intergroup",
+  "homepage": "https://aapittsburgh.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-pa",
+  "name": "Lehigh Valley Intergroup",
+  "homepage": "https://aalehighvalley.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-pa",
+  "name": "Erie Intergroup",
+  "homepage": "https://aaerie.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-sc",
+  "name": "South Carolina Area 62",
+  "homepage": "https://area62.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-sc",
+  "name": "Charleston Central Office",
+  "homepage": "https://charlestonaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-sc",
+  "name": "Columbia Central Office",
+  "homepage": "https://aacolumbiasc.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-sc",
+  "name": "Greenville Central Office",
+  "homepage": "https://aagreenville.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tn",
+  "name": "Knoxville Central Office",
+  "homepage": "https://knoxvilleaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tn",
+  "name": "Chattanooga Central Office",
+  "homepage": "https://chattanoogaaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tn",
+  "name": "Tennessee Area 64",
+  "homepage": "https://area64.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tx",
+  "name": "Dallas Intergroup",
+  "homepage": "https://aadallas.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-tx",
+  "name": "Austin Intergroup",
+  "homepage": "https://austinaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-tx",
+  "name": "Fort Worth Central Service",
+  "homepage": "https://fortworthaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-tx",
+  "name": "El Paso Intergroup",
+  "homepage": "https://aaelpaso.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-tx",
+  "name": "Corpus Christi Intergroup",
+  "homepage": "https://aacorpuschristi.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tx",
+  "name": "Lubbock Intergroup",
+  "homepage": "https://lubbockaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tx",
+  "name": "North East Texas Area 65",
+  "homepage": "https://aanetx.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tx",
+  "name": "South East Texas Area 67",
+  "homepage": "https://aa-area67.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tx",
+  "name": "South West Texas Area 68",
+  "homepage": "https://aaswta68.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tx",
+  "name": "North West Texas Area 66",
+  "homepage": "https://aanwtx.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tx",
+  "name": "Collin County Intergroup",
+  "homepage": "https://aacollincounty.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-tx",
+  "name": "Denton County Intergroup",
+  "homepage": "https://dentonaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-ut",
+  "name": "Utah Area 69",
+  "homepage": "https://utahaa.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-ut",
+  "name": "Salt Lake Central Office",
+  "homepage": "https://saltlakeaa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-va",
+  "name": "Northern Virginia Intergroup",
+  "homepage": "https://nvintergroup.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-va",
+  "name": "Tidewater Intergroup",
+  "homepage": "https://aatidewater.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-wa",
+  "name": "Spokane Central Office",
+  "homepage": "https://spokaneaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-wa",
+  "name": "Pierce County Central Office",
+  "homepage": "https://piercecountyaa.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-wa",
+  "name": "Western Washington Area 72",
+  "homepage": "https://area72aa.org",
+  "error": "HTTP 401"
+ },
+ {
+  "region": "us-wa",
+  "name": "Snohomish County Intergroup",
+  "homepage": "https://snocoaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-wa",
+  "name": "Thurston Mason Intergroup",
+  "homepage": "https://aathurstonmason.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-wa",
+  "name": "Clark County Intergroup",
+  "homepage": "https://aaclarkcounty.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "us-wv",
+  "name": "West Virginia Area 73",
+  "homepage": "https://aawv.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-wi",
+  "name": "Milwaukee Central Office",
+  "homepage": "https://aamilwaukee.com",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-wi",
+  "name": "Southern Wisconsin Area 75",
+  "homepage": "https://area75.org",
+  "error": "HTTP 500"
+ },
+ {
+  "region": "us-wi",
+  "name": "Fox Valley Intergroup",
+  "homepage": "https://foxvalleyaa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "us-wy",
+  "name": "Wyoming Area 76",
+  "homepage": "https://wyomingaa.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "us-pr",
+  "name": "Puerto Rico Area 77",
+  "homepage": "https://aapuertorico.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-on",
+  "name": "Hamilton Central Office",
+  "homepage": "https://aahamilton.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "ca-on",
+  "name": "London Ontario Central Office",
+  "homepage": "https://aalondon.ca",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-on",
+  "name": "Kitchener Waterloo Intergroup",
+  "homepage": "https://aakw.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-on",
+  "name": "Windsor Essex Intergroup",
+  "homepage": "https://aawindsor.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-on",
+  "name": "Niagara Intergroup",
+  "homepage": "https://aaniagara.org",
+  "error": "ERR_TLS_CERT_ALTNAME_INVALID"
+ },
+ {
+  "region": "ca-on",
+  "name": "Western Ontario Area 86",
+  "homepage": "https://area86aa.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "ca-on",
+  "name": "Northeast Ontario Area 84",
+  "homepage": "https://area84aa.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "ca-on",
+  "name": "Sudbury Intergroup",
+  "homepage": "https://aasudbury.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-on",
+  "name": "Durham Region Intergroup",
+  "homepage": "https://aadurhamregion.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-on",
+  "name": "York Region Intergroup",
+  "homepage": "https://aayorkregion.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-on",
+  "name": "Peel Intergroup",
+  "homepage": "https://aapeel.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-qc",
+  "name": "Montreal English Central Office",
+  "homepage": "https://aamontreal.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-qc",
+  "name": "Southwest Quebec Area 87",
+  "homepage": "https://aa87.org",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "ca-qc",
+  "name": "Quebec Central Office",
+  "homepage": "https://aa-quebec.org",
+  "error": "HTTP 400"
+ },
+ {
+  "region": "ca-qc",
+  "name": "AA Quebec",
+  "homepage": "https://aa-quebec.ca",
+  "error": "ECONNREFUSED"
+ },
+ {
+  "region": "ca-bc",
+  "name": "Vancouver Intergroup",
+  "homepage": "https://vancouveraa.ca",
+  "error": "HTTP 403"
+ },
+ {
+  "region": "ca-bc",
+  "name": "Victoria Intergroup",
+  "homepage": "https://aavictoria.ca",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "ca-bc",
+  "name": "Central Okanagan Intergroup",
+  "homepage": "https://aakelowna.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "ca-bc",
+  "name": "Fraser Valley Intergroup",
+  "homepage": "https://fraservalleyaa.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-bc",
+  "name": "North Shore Intergroup",
+  "homepage": "https://northshoreaa.ca",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-bc",
+  "name": "Nanaimo Intergroup",
+  "homepage": "https://aananaimo.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-ab",
+  "name": "Edmonton Central Office",
+  "homepage": "https://aaedmonton.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-ab",
+  "name": "Red Deer Intergroup",
+  "homepage": "https://aareddeer.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-ab",
+  "name": "Lethbridge Intergroup",
+  "homepage": "https://aalethbridge.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-mb",
+  "name": "Winnipeg Central Office",
+  "homepage": "https://aawinnipeg.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-sk",
+  "name": "Saskatchewan Area 91",
+  "homepage": "https://aasask.ca",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-ns",
+  "name": "Nova Scotia Area 82",
+  "homepage": "https://aanovascotia.org",
+  "error": "ENOTFOUND"
+ },
+ {
+  "region": "ca-nb",
+  "name": "New Brunswick Area 81",
+  "homepage": "https://aanb.org",
+  "error": "HTTP 404"
+ },
+ {
+  "region": "ca-nl",
+  "name": "Newfoundland and Labrador Intergroup",
+  "homepage": "https://aanl.org",
+  "error": "Unexpected token '<', \"<!DOCTYPE \"... is"
+ },
+ {
+  "region": "ca-pe",
+  "name": "Prince Edward Island Intergroup",
+  "homepage": "https://aapei.org",
+  "error": "ENOTFOUND"
+ }
+]

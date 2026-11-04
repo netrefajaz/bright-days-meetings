@@ -1,0 +1,618 @@
+[
+ {
+  "slug": "area02alaska",
+  "region": "us-ak",
+  "name": "Alaska Area 2",
+  "homepage": "https://area02alaska.org",
+  "url": "https://area02alaska.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 159
+ },
+ {
+  "slug": "aaphoenix",
+  "region": "us-az",
+  "name": "Phoenix Area Intergroup",
+  "homepage": "https://aaphoenix.org",
+  "url": "https://aaphoenix.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1911
+ },
+ {
+  "slug": "aatucson",
+  "region": "us-az",
+  "name": "Tucson Area Intergroup",
+  "homepage": "https://aatucson.org",
+  "url": "https://aatucson.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 520
+ },
+ {
+  "slug": "aasandiego",
+  "region": "us-ca",
+  "name": "San Diego Central Office",
+  "homepage": "https://aasandiego.org",
+  "url": "https://aasandiego.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1285
+ },
+ {
+  "slug": "oc-aa",
+  "region": "us-ca",
+  "name": "Orange County Central Office",
+  "homepage": "https://oc-aa.org",
+  "url": "https://oc-aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1911
+ },
+ {
+  "slug": "aasacramento",
+  "region": "us-ca",
+  "name": "Sacramento Central Office",
+  "homepage": "https://aasacramento.org",
+  "url": "https://aasacramento.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1222
+ },
+ {
+  "slug": "eastbayaa",
+  "region": "us-ca",
+  "name": "East Bay Intergroup",
+  "homepage": "https://eastbayaa.org",
+  "url": "https://eastbayaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 889
+ },
+ {
+  "slug": "aainlandempire",
+  "region": "us-ca",
+  "name": "Inland Empire Central Service Office",
+  "homepage": "https://aainlandempire.org",
+  "url": "https://aainlandempire.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1001
+ },
+ {
+  "slug": "aaventuracounty",
+  "region": "us-ca",
+  "name": "Ventura County Central Office",
+  "homepage": "https://aaventuracounty.org",
+  "url": "https://aaventuracounty.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 525
+ },
+ {
+  "slug": "fresnoaa",
+  "region": "us-ca",
+  "name": "Fresno Area Intergroup",
+  "homepage": "https://fresnoaa.org",
+  "url": "https://fresnoaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 707
+ },
+ {
+  "slug": "aamonterey",
+  "region": "us-ca",
+  "name": "Monterey Bay Area Intergroup",
+  "homepage": "https://aamonterey.org",
+  "url": "https://www.aamonterey.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 151
+ },
+ {
+  "slug": "daccaa",
+  "region": "us-co",
+  "name": "Denver Area Central Committee",
+  "homepage": "https://daccaa.org",
+  "url": "https://daccaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1124
+ },
+ {
+  "slug": "nocoaa",
+  "region": "us-co",
+  "name": "Northern Colorado Intergroup",
+  "homepage": "https://nocoaa.org",
+  "url": "https://nocoaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 284
+ },
+ {
+  "slug": "ct-aa",
+  "region": "us-ct",
+  "name": "Connecticut Area 11",
+  "homepage": "https://ct-aa.org",
+  "url": "https://ct-aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1908
+ },
+ {
+  "slug": "aa-dc",
+  "region": "us-dc",
+  "name": "Washington Area Intergroup",
+  "homepage": "https://aa-dc.org",
+  "url": "https://aa-dc.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1025
+ },
+ {
+  "slug": "aapalmbeachcounty",
+  "region": "us-fl",
+  "name": "Palm Beach County Intergroup",
+  "homepage": "https://aapalmbeachcounty.org",
+  "url": "https://aapalmbeachcounty.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 508
+ },
+ {
+  "slug": "neflaa",
+  "region": "us-fl",
+  "name": "North East Florida Intergroup",
+  "homepage": "https://neflaa.org",
+  "url": "https://neflaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 728
+ },
+ {
+  "slug": "aapinellas",
+  "region": "us-fl",
+  "name": "Pinellas County Intergroup",
+  "homepage": "https://aapinellas.org",
+  "url": "https://aapinellas.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 699
+ },
+ {
+  "slug": "aagainesville",
+  "region": "us-fl",
+  "name": "Gainesville Intergroup",
+  "homepage": "https://aagainesville.org",
+  "url": "https://aagainesville.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 173
+ },
+ {
+  "slug": "aafloridakeys",
+  "region": "us-fl",
+  "name": "Florida Keys Intergroup",
+  "homepage": "https://aafloridakeys.org",
+  "url": "https://aafloridakeys.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 96
+ },
+ {
+  "slug": "atlantaaa",
+  "region": "us-ga",
+  "name": "Atlanta Central Office",
+  "homepage": "https://atlantaaa.org",
+  "url": "https://atlantaaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1441
+ },
+ {
+  "slug": "oahuaa",
+  "region": "us-hi",
+  "name": "Oahu Central Office",
+  "homepage": "https://oahuaa.org",
+  "url": "https://oahuaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 268
+ },
+ {
+  "slug": "indyaa",
+  "region": "us-in",
+  "name": "Indianapolis Intergroup",
+  "homepage": "https://indyaa.org",
+  "url": "https://indyaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 464
+ },
+ {
+  "slug": "aa-iowa",
+  "region": "us-ia",
+  "name": "Iowa Area 24",
+  "homepage": "https://aa-iowa.org",
+  "url": "https://aa-iowa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1337
+ },
+ {
+  "slug": "aadesmoines",
+  "region": "us-ia",
+  "name": "Des Moines Central Office",
+  "homepage": "https://aadesmoines.org",
+  "url": "https://aadesmoines.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 258
+ },
+ {
+  "slug": "kc-aa",
+  "region": "us-mo",
+  "name": "Kansas City Central Office",
+  "homepage": "https://kc-aa.org",
+  "url": "https://kc-aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1378
+ },
+ {
+  "slug": "bluegrassintergroup",
+  "region": "us-ky",
+  "name": "Bluegrass Intergroup",
+  "homepage": "https://bluegrassintergroup.org",
+  "url": "https://www.bluegrassintergroup.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 414
+ },
+ {
+  "slug": "area26",
+  "region": "us-ky",
+  "name": "Kentucky Area 26",
+  "homepage": "https://area26.net",
+  "url": "https://area26.net/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1358
+ },
+ {
+  "slug": "aabatonrouge",
+  "region": "us-la",
+  "name": "Baton Rouge Central Office",
+  "homepage": "https://aabatonrouge.org",
+  "url": "https://aabatonrouge.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 357
+ },
+ {
+  "slug": "csoaamaine",
+  "region": "us-me",
+  "name": "Maine Central Service Office",
+  "homepage": "https://csoaamaine.org",
+  "url": "https://csoaamaine.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 807
+ },
+ {
+  "slug": "aaminneapolis",
+  "region": "us-mn",
+  "name": "Minneapolis Intergroup",
+  "homepage": "https://aaminneapolis.org",
+  "url": "https://aaminneapolis.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 980
+ },
+ {
+  "slug": "aastl",
+  "region": "us-mo",
+  "name": "St Louis Central Service Office",
+  "homepage": "https://aastl.org",
+  "url": "https://aastl.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 985
+ },
+ {
+  "slug": "omahaaa",
+  "region": "us-ne",
+  "name": "Omaha Central Office",
+  "homepage": "https://omahaaa.org",
+  "url": "https://omahaaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 646
+ },
+ {
+  "slug": "area41",
+  "region": "us-ne",
+  "name": "Nebraska Area 41",
+  "homepage": "https://area41.org",
+  "url": "https://www.area41.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1177
+ },
+ {
+  "slug": "lvcentraloffice",
+  "region": "us-nv",
+  "name": "Las Vegas Central Office",
+  "homepage": "https://lvcentraloffice.org",
+  "url": "https://lvcentraloffice.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1157
+ },
+ {
+  "slug": "santafeaa",
+  "region": "us-nm",
+  "name": "Santa Fe Intergroup",
+  "homepage": "https://santafeaa.org",
+  "url": "https://santafeaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 110
+ },
+ {
+  "slug": "nyintergroup",
+  "region": "us-ny",
+  "name": "New York Intergroup",
+  "homepage": "https://nyintergroup.org",
+  "url": "https://nyintergroup.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 2851
+ },
+ {
+  "slug": "nassauny-aa",
+  "region": "us-ny",
+  "name": "Nassau County Intergroup",
+  "homepage": "https://nassauny-aa.org",
+  "url": "http://nassauintergroup.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 644
+ },
+ {
+  "slug": "suffolkny-aa",
+  "region": "us-ny",
+  "name": "Suffolk County Intergroup",
+  "homepage": "https://suffolkny-aa.org",
+  "url": "https://suffolkny-aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 887
+ },
+ {
+  "slug": "aasyracuse",
+  "region": "us-ny",
+  "name": "Syracuse Intergroup",
+  "homepage": "https://aasyracuse.org",
+  "url": "https://aasyracuse.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 400
+ },
+ {
+  "slug": "raleighaa",
+  "region": "us-nc",
+  "name": "Raleigh Intergroup",
+  "homepage": "https://raleighaa.com",
+  "url": "https://raleighaa.com/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 386
+ },
+ {
+  "slug": "aadurham",
+  "region": "us-nc",
+  "name": "Durham Intergroup",
+  "homepage": "https://aadurham.org",
+  "url": "https://www.aadurham.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 78
+ },
+ {
+  "slug": "aacentralohio",
+  "region": "us-oh",
+  "name": "Central Ohio Intergroup",
+  "homepage": "https://aacentralohio.org",
+  "url": "https://aacentralohio.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 842
+ },
+ {
+  "slug": "aacincinnati",
+  "region": "us-oh",
+  "name": "Cincinnati Intergroup",
+  "homepage": "https://aacincinnati.org",
+  "url": "https://aacincinnati.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 683
+ },
+ {
+  "slug": "aaoklahoma",
+  "region": "us-ok",
+  "name": "Oklahoma Area 57",
+  "homepage": "https://aaoklahoma.org",
+  "url": "https://aaoklahoma.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1544
+ },
+ {
+  "slug": "aa-oregon",
+  "region": "us-or",
+  "name": "Oregon Area 58",
+  "homepage": "https://aa-oregon.org",
+  "url": "https://aa-oregon.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 275
+ },
+ {
+  "slug": "coigaa",
+  "region": "us-or",
+  "name": "Central Oregon Intergroup",
+  "homepage": "https://coigaa.org",
+  "url": "https://coigaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 177
+ },
+ {
+  "slug": "aasepia",
+  "region": "us-pa",
+  "name": "Southeastern Pennsylvania Intergroup",
+  "homepage": "https://aasepia.org",
+  "url": "https://aasepia.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1895
+ },
+ {
+  "slug": "wpaarea60",
+  "region": "us-pa",
+  "name": "Western Pennsylvania Area 60",
+  "homepage": "https://wpaarea60.org",
+  "url": "https://wpaarea60.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 944
+ },
+ {
+  "slug": "area59aa",
+  "region": "us-pa",
+  "name": "Eastern Pennsylvania Area 59",
+  "homepage": "https://area59aa.org",
+  "url": "https://area59aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 3287
+ },
+ {
+  "slug": "aaharrisburg",
+  "region": "us-pa",
+  "name": "Harrisburg Intergroup",
+  "homepage": "https://aaharrisburg.org",
+  "url": "https://aaharrisburg.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 185
+ },
+ {
+  "slug": "lancasteraa",
+  "region": "us-pa",
+  "name": "Lancaster Intergroup",
+  "homepage": "https://lancasteraa.org",
+  "url": "https://lancasteraa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 142
+ },
+ {
+  "slug": "rhodeisland-aa",
+  "region": "us-ri",
+  "name": "Rhode Island Central Service",
+  "homepage": "https://rhodeisland-aa.org",
+  "url": "https://rhodeisland-aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 711
+ },
+ {
+  "slug": "area63aa",
+  "region": "us-sd",
+  "name": "South Dakota Area 63",
+  "homepage": "https://area63aa.org",
+  "url": "https://area63aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 417
+ },
+ {
+  "slug": "aanashville",
+  "region": "us-tn",
+  "name": "Nashville Central Office",
+  "homepage": "https://aanashville.org",
+  "url": "https://aanashville.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1022
+ },
+ {
+  "slug": "memphis-aa",
+  "region": "us-tn",
+  "name": "Memphis Intergroup",
+  "homepage": "https://memphis-aa.org",
+  "url": "https://memphis-aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 389
+ },
+ {
+  "slug": "aahouston",
+  "region": "us-tx",
+  "name": "Houston Intergroup",
+  "homepage": "https://aahouston.org",
+  "url": "https://aahouston.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1964
+ },
+ {
+  "slug": "aasanantonio",
+  "region": "us-tx",
+  "name": "San Antonio Central Office",
+  "homepage": "https://aasanantonio.org",
+  "url": "https://aasanantonio.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1066
+ },
+ {
+  "slug": "aavt",
+  "region": "us-vt",
+  "name": "Vermont Area 70",
+  "homepage": "https://aavt.org",
+  "url": "https://aavt.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 523
+ },
+ {
+  "slug": "aarichmond",
+  "region": "us-va",
+  "name": "Richmond Intergroup",
+  "homepage": "https://aarichmond.org",
+  "url": "https://aarichmond.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 384
+ },
+ {
+  "slug": "aavirginia",
+  "region": "us-va",
+  "name": "Virginia Area 71",
+  "homepage": "https://aavirginia.org",
+  "url": "https://aavirginia.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 2899
+ },
+ {
+  "slug": "aablueridge",
+  "region": "us-va",
+  "name": "Blue Ridge Intergroup",
+  "homepage": "https://aablueridge.org",
+  "url": "https://aablueridge.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 266
+ },
+ {
+  "slug": "seattleaa",
+  "region": "us-wa",
+  "name": "Greater Seattle Intergroup",
+  "homepage": "https://seattleaa.org",
+  "url": "https://seattleaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1615
+ },
+ {
+  "slug": "eastsideaa",
+  "region": "us-wa",
+  "name": "Eastside Intergroup",
+  "homepage": "https://eastsideaa.org",
+  "url": "https://www.eastsideaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 435
+ },
+ {
+  "slug": "area92aa",
+  "region": "us-wa",
+  "name": "Eastern Washington Area 92",
+  "homepage": "https://area92aa.org",
+  "url": "https://area92aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1125
+ },
+ {
+  "slug": "aamadisonwi",
+  "region": "us-wi",
+  "name": "Madison Area Intergroup",
+  "homepage": "https://aamadisonwi.org",
+  "url": "https://aamadisonwi.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 523
+ },
+ {
+  "slug": "area74",
+  "region": "us-wi",
+  "name": "Northern Wisconsin Area 74",
+  "homepage": "https://area74.org",
+  "url": "https://area74.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 176
+ },
+ {
+  "slug": "aatoronto",
+  "region": "ca-on",
+  "name": "Greater Toronto Area Intergroup",
+  "homepage": "https://aatoronto.org",
+  "url": "https://aatoronto.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 480
+ },
+ {
+  "slug": "ottawaaa",
+  "region": "ca-on",
+  "name": "Ottawa Area Intergroup",
+  "homepage": "https://ottawaaa.org",
+  "url": "https://ottawaaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 261
+ },
+ {
+  "slug": "area83aa",
+  "region": "ca-on",
+  "name": "Eastern Ontario Area 83",
+  "homepage": "https://area83aa.org",
+  "url": "https://area83aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1226
+ },
+ {
+  "slug": "bcyukonaa",
+  "region": "ca-bc",
+  "name": "BC Yukon Area 79",
+  "homepage": "https://bcyukonaa.org",
+  "url": "https://bcyukonaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1139
+ },
+ {
+  "slug": "calgaryaa",
+  "region": "ca-ab",
+  "name": "Calgary Central Office",
+  "homepage": "https://calgaryaa.org",
+  "url": "https://calgaryaa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 444
+ },
+ {
+  "slug": "area78",
+  "region": "ca-ab",
+  "name": "Alberta NWT Area 78",
+  "homepage": "https://area78.org",
+  "url": "https://area78aa.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 1099
+ },
+ {
+  "slug": "aamanitoba",
+  "region": "ca-mb",
+  "name": "Manitoba Area 80",
+  "homepage": "https://aamanitoba.org",
+  "url": "https://api.aamanitoba.org/meetings",
+  "meetings": 411
+ },
+ {
+  "slug": "aasaskatoon",
+  "region": "ca-sk",
+  "name": "Saskatoon Central Office",
+  "homepage": "https://aasaskatoon.org",
+  "url": "https://aasaskatoon.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 76
+ },
+ {
+  "slug": "aaregina",
+  "region": "ca-sk",
+  "name": "Regina Central Office",
+  "homepage": "https://aaregina.org",
+  "url": "https://aaregina.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 83
+ },
+ {
+  "slug": "aahalifax",
+  "region": "ca-ns",
+  "name": "Halifax Central Office",
+  "homepage": "https://aahalifax.org",
+  "url": "https://aahalifax.org/wp-admin/admin-ajax.php?action=meetings",
+  "meetings": 88
+ }
+]
