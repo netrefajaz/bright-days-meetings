@@ -1,0 +1,25 @@
+name: Find office contacts
+
+# Run by hand to collect contact emails for offices whose feeds are private.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  contacts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/find-contacts.mjs
+      - name: Save the contact list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds/private-contacts.json
+          git diff --cached --quiet || git commit -m "Update contact list for offices with private feeds"
+          git push
