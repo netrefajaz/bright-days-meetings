@@ -1,0 +1,5 @@
+{
+ "_about": "Offices or meetings that asked not to be listed. feeds: feed slugs from feeds/feeds.json. meetings: objects with feed plus slug, name, or url.",
+ "feeds": [],
+ "meetings": []
+}
