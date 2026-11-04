@@ -1,0 +1,399 @@
+[
+ {
+  "region": "us-al",
+  "name": "Alabama Northwest Florida Area 1",
+  "homepage": "https://aaarea1.org",
+  "emails": [],
+  "contactPage": null
+ },
+ {
+  "region": "us-ak",
+  "name": "Anchorage Central Office",
+  "homepage": "https://anchorageaa.org",
+  "emails": [],
+  "contactPage": "https://anchorageaa.org/contact"
+ },
+ {
+  "region": "us-ar",
+  "name": "Arkansas Area 4",
+  "homepage": "https://arkansasaa.org",
+  "emails": [],
+  "contactPage": null
+ },
+ {
+  "region": "us-ca",
+  "name": "Long Beach Central Office",
+  "homepage": "https://lbaa.org",
+  "emails": [
+   "official@lbaa.org"
+  ],
+  "contactPage": null
+ },
+ {
+  "region": "us-ca",
+  "name": "Santa Cruz County Intergroup",
+  "homepage": "https://aasantacruz.org",
+  "emails": [
+   "info@aasantacruz.org"
+  ],
+  "contactPage": "https://aasantacruz.org/contact"
+ },
+ {
+  "region": "us-ca",
+  "name": "Sonoma County Intergroup",
+  "homepage": "https://sonomacountyaa.org",
+  "emails": [
+   "intergroup@sonomacountyaa.org",
+   "aasonoma@sonic.net",
+   "generalservice@aasonomacounty.org"
+  ],
+  "contactPage": "https://sonomacountyaa.org/contact-us"
+ },
+ {
+  "region": "us-ca",
+  "name": "San Mateo County Central Service",
+  "homepage": "https://aa-san-mateo.org",
+  "emails": [
+   "aasanmateo@gmail.com"
+  ],
+  "contactPage": "https://aa-san-mateo.org/contact"
+ },
+ {
+  "region": "us-ca",
+  "name": "Contra Costa Central Service",
+  "homepage": "https://contracostaaa.org",
+  "emails": [
+   "manager@contracostaaa.org",
+   "scs-events@comcast.net",
+   "sc-events@comcast.net"
+  ],
+  "contactPage": "https://contracostaaa.org/contact"
+ },
+ {
+  "region": "us-co",
+  "name": "Colorado Springs Central Office",
+  "homepage": "https://coloradospringsaa.org",
+  "emails": [
+   "webmaster@coloradospringsaa.org",
+   "serviceoffice@coloradospringsaa.org",
+   "archives@coloradospringsaa.org",
+   "chair@coloradospringsaa.org"
+  ],
+  "contactPage": "https://coloradospringsaa.org/contact"
+ },
+ {
+  "region": "us-fl",
+  "name": "Miami Dade Intergroup",
+  "homepage": "https://aamiamidade.org",
+  "emails": [
+   "aamiamidade@bellsouth.net"
+  ],
+  "contactPage": "https://aamiamidade.org/contact"
+ },
+ {
+  "region": "us-fl",
+  "name": "Central Florida Intergroup",
+  "homepage": "https://cflintergroup.org",
+  "emails": [
+   "cfintergroup@gmail.comoffice",
+   "cfintergroup@gmail.com"
+  ],
+  "contactPage": "https://cflintergroup.org/contact"
+ },
+ {
+  "region": "us-fl",
+  "name": "Pensacola Intergroup",
+  "homepage": "https://aapensacola.org",
+  "emails": [
+   "info@aapensacola.org"
+  ],
+  "contactPage": "https://aapensacola.org/contact"
+ },
+ {
+  "region": "us-ga",
+  "name": "Georgia Area 16",
+  "homepage": "https://aageorgia.org",
+  "emails": [
+   "officecommittee@aageorgia.org",
+   "officechair@aageorgia.org",
+   "gssa@aageorgia.org",
+   "delegate@aageorgia.org"
+  ],
+  "contactPage": "https://aageorgia.org/contact-us"
+ },
+ {
+  "region": "us-id",
+  "name": "Idaho Area 18",
+  "homepage": "https://idahoarea18aa.org",
+  "emails": [
+   "webservant@idahoarea18aa.org",
+   "webseravant@idahoarea18aa.org",
+   "tech@idahoarea18aa.org",
+   "delegate@idahoarea18aa.org"
+  ],
+  "contactPage": "https://idahoarea18aa.org/contact"
+ },
+ {
+  "region": "us-il",
+  "name": "Chicago Area Service Office",
+  "homepage": "https://chicagoaa.org",
+  "emails": [],
+  "contactPage": null
+ },
+ {
+  "region": "us-il",
+  "name": "Peoria Area Intergroup",
+  "homepage": "https://aapeoria.org",
+  "emails": [],
+  "contactPage": "https://aapeoria.org/contact"
+ },
+ {
+  "region": "us-la",
+  "name": "New Orleans Central Office",
+  "homepage": "https://aaneworleans.org",
+  "emails": [
+   "office@aaneworleans.org"
+  ],
+  "contactPage": "https://aaneworleans.org/contact"
+ },
+ {
+  "region": "us-ma",
+  "name": "Boston Central Service Office",
+  "homepage": "https://aaboston.org",
+  "emails": [],
+  "contactPage": null
+ },
+ {
+  "region": "us-mi",
+  "name": "Southeastern Michigan Area 16",
+  "homepage": "https://aa-semi.org",
+  "emails": [],
+  "contactPage": "https://aa-semi.org/contact"
+ },
+ {
+  "region": "us-nv",
+  "name": "Northern Nevada Intergroup",
+  "homepage": "https://nnig.org",
+  "emails": [
+   "officemanager@nnig.org",
+   "nnigbracer@gmail.com"
+  ],
+  "contactPage": "https://nnig.org/contact"
+ },
+ {
+  "region": "us-nh",
+  "name": "New Hampshire Area 43",
+  "homepage": "https://nhaa.net",
+  "emails": [
+   "office@nhaa.net",
+   "soc@nhaa.net"
+  ],
+  "contactPage": "https://nhaa.net/contact"
+ },
+ {
+  "region": "us-nj",
+  "name": "Southern New Jersey Area 45",
+  "homepage": "https://aanj.org",
+  "emails": [],
+  "contactPage": null
+ },
+ {
+  "region": "us-nm",
+  "name": "Albuquerque Central Office",
+  "homepage": "https://albuquerqueaa.org",
+  "emails": [
+   "web@albuquerqueaa.org",
+   "intergrouplaiison@albuquerqueaa.org",
+   "intergroupliaison@albuquerqueaa.org",
+   "coordinator@albuquerqueaa.org"
+  ],
+  "contactPage": "https://albuquerqueaa.org/about"
+ },
+ {
+  "region": "us-ny",
+  "name": "Rochester Area Intergroup",
+  "homepage": "https://rochester-ny-aa.org",
+  "emails": [
+   "office1@rochester-ny-aa.org"
+  ],
+  "contactPage": "https://rochester-ny-aa.org/contact"
+ },
+ {
+  "region": "us-nc",
+  "name": "Charlotte Central Office",
+  "homepage": "https://charlotteaa.org",
+  "emails": [
+   "info@charlotteaa.org",
+   "704-332-4387info@charlotteaa.org",
+   "nominations@charlotteaa.org",
+   "cpc-pi@charlotteaa.org"
+  ],
+  "contactPage": "https://charlotteaa.org/contact"
+ },
+ {
+  "region": "us-nc",
+  "name": "Asheville Area Intergroup",
+  "homepage": "https://ashevilleaa.org",
+  "emails": [
+   "technology@ashevilleaa.org",
+   "webmaster@ashevilleaa.org",
+   "dcm@ashevilleaa.org",
+   "altdcm@ashevilleaa.org"
+  ],
+  "contactPage": "https://ashevilleaa.org/contact"
+ },
+ {
+  "region": "us-nc",
+  "name": "North Carolina Area 51",
+  "homepage": "https://aanorthcarolina.org",
+  "emails": [
+   "webmaster@aanorthcarolina.org",
+   "webchair@aanorthcarolina.org",
+   "delegate@aanorthcarolina.org",
+   "altdelegate@aanorthcarolina.org"
+  ],
+  "contactPage": "https://aanorthcarolina.org/contact"
+ },
+ {
+  "region": "us-nd",
+  "name": "North Dakota Area 52",
+  "homepage": "https://aanorthdakota.org",
+  "emails": [
+   "reglit@aanorthdakota.org"
+  ],
+  "contactPage": "https://aanorthdakota.org/contact"
+ },
+ {
+  "region": "us-oh",
+  "name": "Cleveland District Office",
+  "homepage": "https://aacle.org",
+  "emails": [],
+  "contactPage": null
+ },
+ {
+  "region": "us-oh",
+  "name": "Akron Intergroup",
+  "homepage": "https://akronaa.org",
+  "emails": [
+   "info@akronaa.org",
+   "answeringservice@akronaa.org",
+   "archives@akronaa.org",
+   "anniversary@akronaa.org"
+  ],
+  "contactPage": "https://akronaa.org/contact"
+ },
+ {
+  "region": "us-oh",
+  "name": "Toledo Intergroup",
+  "homepage": "https://toledoaa.com",
+  "emails": [
+   "webmaster@toledoaa.com",
+   "toledoaa@accesstoledo.com",
+   "toledoaa2017@outlook.com"
+  ],
+  "contactPage": null
+ },
+ {
+  "region": "us-oh",
+  "name": "Canton Area Intergroup",
+  "homepage": "https://cantonaa.org",
+  "emails": [
+   "office@cantonaa.org"
+  ],
+  "contactPage": "https://cantonaa.org/contact-us"
+ },
+ {
+  "region": "us-oh",
+  "name": "Ohio Area 53",
+  "homepage": "https://area53aa.org",
+  "emails": [
+   "contact@area53aa.org",
+   "dcm30@area53aa.org",
+   "dcm22@area53aa.org",
+   "grapevine@area53aa.org"
+  ],
+  "contactPage": null
+ },
+ {
+  "region": "us-oh",
+  "name": "Ohio Area 54",
+  "homepage": "https://area54.org",
+  "emails": [
+   "408-0289chair@area54.org",
+   "624-9610delegate@area54.org",
+   "287-6009altdelegate@area54.org",
+   "treasurer@area54.org"
+  ],
+  "contactPage": "https://area54.org/contact"
+ },
+ {
+  "region": "us-or",
+  "name": "Portland Area Intergroup",
+  "homepage": "https://pdxaa.org",
+  "emails": [
+   "office@pdxaa.org"
+  ],
+  "contactPage": "https://pdxaa.org/about"
+ },
+ {
+  "region": "us-or",
+  "name": "Salem Central Office",
+  "homepage": "https://aasalem.org",
+  "emails": [],
+  "contactPage": "https://aasalem.org/contact"
+ },
+ {
+  "region": "us-tx",
+  "name": "Dallas Intergroup",
+  "homepage": "https://aadallas.org",
+  "emails": [
+   "office@aadallas.org",
+   "chair@aadallas.org"
+  ],
+  "contactPage": "https://aadallas.org/contact"
+ },
+ {
+  "region": "us-tx",
+  "name": "Austin Intergroup",
+  "homepage": "https://austinaa.org",
+  "emails": [
+   "austinaa@gmail.com"
+  ],
+  "contactPage": "https://austinaa.org/contact"
+ },
+ {
+  "region": "us-tx",
+  "name": "Fort Worth Central Service",
+  "homepage": "https://fortworthaa.org",
+  "emails": [],
+  "contactPage": "https://fortworthaa.org/contact"
+ },
+ {
+  "region": "us-ut",
+  "name": "Salt Lake Central Office",
+  "homepage": "https://saltlakeaa.org",
+  "emails": [],
+  "contactPage": "https://saltlakeaa.org/contact"
+ },
+ {
+  "region": "us-wa",
+  "name": "Western Washington Area 72",
+  "homepage": "https://area72aa.org",
+  "emails": [],
+  "contactPage": "https://area72aa.org/contact"
+ },
+ {
+  "region": "ca-qc",
+  "name": "Southwest Quebec Area 87",
+  "homepage": "https://aa87.org",
+  "emails": [],
+  "contactPage": null
+ },
+ {
+  "region": "ca-bc",
+  "name": "Vancouver Intergroup",
+  "homepage": "https://vancouveraa.ca",
+  "emails": [],
+  "contactPage": null
+ }
+]
