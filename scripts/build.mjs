@@ -56,6 +56,7 @@ async function pool(items, n, fn) {
 const feeds = await readJson('feeds/feeds.json', []);
 const optout = await readJson('optout.json', { feeds: [], meetings: [] });
 const config = await readJson('config.json', {});
+const linkouts = await readJson('feeds/linkouts.json', []);
 const blockedFeeds = new Set((optout.feeds ?? []).map(String));
 const blockedMeetings = optout.meetings ?? [];
 
@@ -257,6 +258,8 @@ const index = {
   tiles: tileRows,
   regions: regionRows,
   online: onlineRows,
+  // Offices whose lists we can't include: [name, homepage, lat, lng, miles they serve].
+  linkouts: linkouts.map((o) => [o.name, o.homepage, o.lat, o.lng, o.miles]),
 };
 await writeFile(`${OUT}/index.json`, JSON.stringify(index));
 await writeFile(`${OUT}/.nojekyll`, '');
