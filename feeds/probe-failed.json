@@ -1083,13 +1083,13 @@
   "region": "ca-qc",
   "name": "AA Quebec",
   "homepage": "https://aa-quebec.ca",
-  "error": "ECONNREFUSED"
+  "error": "HTTP 400"
  },
  {
   "region": "ca-bc",
   "name": "Vancouver Intergroup",
   "homepage": "https://vancouveraa.ca",
-  "error": "HTTP 403"
+  "error": "ECONNREFUSED"
  },
  {
   "region": "ca-bc",

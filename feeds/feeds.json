@@ -13,7 +13,7 @@
   "name": "Phoenix Area Intergroup",
   "homepage": "https://aaphoenix.org",
   "url": "https://aaphoenix.org/wp-admin/admin-ajax.php?action=meetings",
-  "meetings": 1911
+  "meetings": 1912
  },
  {
   "slug": "aatucson",
@@ -117,7 +117,7 @@
   "name": "Washington Area Intergroup",
   "homepage": "https://aa-dc.org",
   "url": "https://aa-dc.org/wp-admin/admin-ajax.php?action=meetings",
-  "meetings": 1025
+  "meetings": 1024
  },
  {
   "slug": "aapalmbeachcounty",
@@ -293,7 +293,7 @@
   "name": "New York Intergroup",
   "homepage": "https://nyintergroup.org",
   "url": "https://nyintergroup.org/wp-admin/admin-ajax.php?action=meetings",
-  "meetings": 2851
+  "meetings": 2854
  },
  {
   "slug": "nassauny-aa",
@@ -301,7 +301,7 @@
   "name": "Nassau County Intergroup",
   "homepage": "https://nassauny-aa.org",
   "url": "http://nassauintergroup.org/wp-admin/admin-ajax.php?action=meetings",
-  "meetings": 644
+  "meetings": 642
  },
  {
   "slug": "suffolkny-aa",
@@ -349,7 +349,7 @@
   "name": "Cincinnati Intergroup",
   "homepage": "https://aacincinnati.org",
   "url": "https://aacincinnati.org/wp-admin/admin-ajax.php?action=meetings",
-  "meetings": 683
+  "meetings": 682
  },
  {
   "slug": "aaoklahoma",
@@ -397,7 +397,7 @@
   "name": "Eastern Pennsylvania Area 59",
   "homepage": "https://area59aa.org",
   "url": "https://area59aa.org/wp-admin/admin-ajax.php?action=meetings",
-  "meetings": 3287
+  "meetings": 3288
  },
  {
   "slug": "aaharrisburg",
@@ -453,7 +453,7 @@
   "name": "Houston Intergroup",
   "homepage": "https://aahouston.org",
   "url": "https://aahouston.org/wp-admin/admin-ajax.php?action=meetings",
-  "meetings": 1964
+  "meetings": 1963
  },
  {
   "slug": "aasanantonio",
