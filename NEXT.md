@@ -44,5 +44,5 @@ Both need Spanish versions and the accessibility pass.
 - Sealed until the milestone: can't open early or edit. Delete allowed with a confirmation
   ("Delete this letter? You won't be able to get it back").
 - If the counter resets after a slip, the letter's milestone moves with the new count.
-- Notification when a letter is ready; discreet mode uses neutral wording (TBD with Jaz).
+- Notification when a letter is ready; discreet mode says "Something's ready for you in Bright Days."
 - Lives in the Journal tab.
