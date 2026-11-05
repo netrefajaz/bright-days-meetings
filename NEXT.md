@@ -46,3 +46,8 @@ Both need Spanish versions and the accessibility pass.
 - If the counter resets after a slip, the letter's milestone moves with the new count.
 - Notification when a letter is ready; discreet mode says "Something's ready for you in Bright Days."
 - Lives in the Journal tab.
+
+## Meeting Guide app button (decided Nov 5)
+- Only in areas Bright Days doesn't cover (link out areas). Never in covered areas.
+- Shows alongside the office website button (or the aa.org button where no office is known):
+  [Find a meeting near you] / [Open aa.org meeting finder], plus [Get the Meeting Guide app].
