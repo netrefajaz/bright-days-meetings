@@ -167,8 +167,10 @@
   "region": "us-mi",
   "name": "Southeastern Michigan Area 33",
   "homepage": "https://aa-semi.org",
-  "emails": [],
-  "contactPage": "https://aa-semi.org/contact"
+  "emails": [
+   "area33webchair@aa-semi.org"
+  ],
+  "contactPage": "https://aa-semi.org/contact/"
  },
  {
   "region": "us-nv",
